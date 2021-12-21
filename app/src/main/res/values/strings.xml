@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">part2_chapter05</string>
+    <string name="startPhotoFrameMode">전자 액자 실행하기</string>
+    <string name="addPhoto">사진 추가하기</string>
+</resources>
